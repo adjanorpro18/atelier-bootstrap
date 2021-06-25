@@ -1,1 +1,1 @@
-# atelier-bootstrap
+# workshop-bootstrap
